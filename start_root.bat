@@ -1,0 +1,2 @@
+python root.py
+pause 

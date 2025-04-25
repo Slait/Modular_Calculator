@@ -1,0 +1,2 @@
+# Python dependencies for Modular Calculator
+sympy==1.12
